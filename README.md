@@ -1,11 +1,5 @@
 # Duckymotion
 
-<p align="left">
-    <a href="https://discord.gg/rxekqVJ" target="_blank">
-        <img src="https://discordapp.com/api/guilds/408718485913468928/widget.png?style=banner3">
-    </a>
-</p>
-
 ## Duckymotion replacement for https://nothing.portal and https://nothing.ctr
 
 # What is this?
@@ -19,7 +13,7 @@ First step, install [NodeJS](https://nodejs.org). Download/clone this repo and r
 - [ ] Made the Duckymotion UI.
 - [ ] Made the API for send messages.
 - [ ] Made the API for send image or drawer.
-- [ ] Finish the User Menu.
+- [ ] Finish to made the User Menu for modify profile.
 - [ ] Made API for follows communities/users.
 - [ ] Made API for views communities.
 
